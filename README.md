@@ -1,8 +1,8 @@
 # VectorRotationSolver
 It estimates the static transformation between vector pairs by using Genetic Algorithm.
 
-Red vectors -> source
-Blue vectors -> target
-White vectors -> estimations
+<p> Red vectors -> source </p>
+<p> Blue vectors -> target </p>
+<p> White vectors -> estimations </p>
 
 ![alt text](https://github.com/goktugyildirim/ROSVectorRotationSolver/blob/main/vectors.png?raw=true)
