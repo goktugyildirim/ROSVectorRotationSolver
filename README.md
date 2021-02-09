@@ -1,5 +1,5 @@
 # VectorRotationSolver
-It estimates the static transformation between vector pairs by using Genetic Algorithm.
+It estimates the rotation matrix between vector pairs by using Genetic Algorithm.
 
 <p> Red vectors -> source </p>
 <p> Blue vectors -> target </p>
